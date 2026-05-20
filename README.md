@@ -35,6 +35,8 @@
 	</table>
 </div>
 
+### GitHub Stats
+![PixelSculptor's GitHub stats](https://github-readme-stats.vercel.app/api?username=PixelSculptor&commits_year=2026)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
