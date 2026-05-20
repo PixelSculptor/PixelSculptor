@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on master thesis - ***Effectiveness analysis serverless design patterns***<br><br>🌱 I’m currently learning AWS and React<br><br>👨‍💻 All of my projects are available at https://github.com/PixelSculptor<br><br>📫 How to reach me kapix007@gmail.com<br><br>📄 Look at my experience: https://www.linkedin.com/in/kacper-nadstoga/<br><br>⚡ Fun fact: Big fan of F1 and cycling
+👨‍💻 All of my projects are available at https://github.com/PixelSculptor<br><br>📫 How to reach me kacp3r.nadstoga@gmail.com<br><br>📄 Look at my experience: https://www.linkedin.com/in/kacper-nadstoga/<br><br>⚡ Fun fact: Big fan of F1 and cycling
 
 
 ## 🌐 Socials:
@@ -15,7 +15,6 @@
 			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code></td>
 			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass" title="Sass"/></code></td>
 			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code></td>
-			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="Vue.js" title="Vue.js"/></code></td>
 			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code></td>
 		</tr>
 		<tr>
@@ -30,20 +29,12 @@
 		</tr>
 		<tr>
 			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code></td>
-			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="Jest" title="Jest"/></code></td>
-			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code></td>
-			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/183893668-d45b89f9-bd9f-4143-b61a-7db9ac6bbd5e.png" alt="Cassandra" title="Cassandra"/></code></td>
-			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code></td>
 			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></code></td>
 			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code></td>
-			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" alt="CI/CD" title="CI/CD"/></code></td>
 		</tr>
 	</table>
 </div>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PixelSculptor&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PixelSculptor&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PixelSculptor&theme=react&hide_border=false&include_all_commits=true&count_private=false)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
