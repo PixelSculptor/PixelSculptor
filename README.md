@@ -36,10 +36,10 @@ I am a **Fullstack Software Engineer** specialized in building AI-powered SaaS p
 ![DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 
 #### ☁️ Cloud, DevOps & AI Tooling
-[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-[![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-AI-blue?style=for-the-badge)
 
 ---
