@@ -55,8 +55,8 @@ I am a **Fullstack Software Engineer** specialized in building AI-powered SaaS p
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PixelSculptor&show_icons=true&theme=tokyonight&count_private=true" alt="Kacper's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PixelSculptor&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PixelSculptor&show_icons=true&theme=tokyonight&count_private=true" alt="Kacper's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PixelSculptor&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
